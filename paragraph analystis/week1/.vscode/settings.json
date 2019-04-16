@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "handleword.h": "c",
+        "stdio.h": "c",
+        "listword.h": "c",
+        "file.h": "c",
+        "stdbool.h": "c"
+    }
+}
