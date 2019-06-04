@@ -13,7 +13,7 @@ int currentChar;
 
 int readChar(void) {
   currentChar = getc(inputStream);
-  print("%c",currentChar);
+  if(currentChar != EOF) printf("%c",currentChar);
   colNo ++;
   if (currentChar == '\n') {
     lineNo ++;
