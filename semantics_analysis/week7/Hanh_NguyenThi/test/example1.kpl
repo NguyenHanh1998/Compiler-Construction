@@ -1,0 +1,9 @@
+
+Program Toto;
+Type Vector = Array(.10.) of Integer;
+Var X : integer;
+    Function Foo(VAR a:Integer):Integer;
+    Var M : Array(.10.) of Vector;
+        A: Integer;
+    Begin {......} End;
+Begin {.....} End.
